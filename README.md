@@ -1,8 +1,8 @@
 ### PRESENTACION DE PERSONAL
-### Hola a todos y bienvenidos a espacio virtual ¡¡¡
+### Hola a todos y bienvenidos a mi espacio virtual ¡¡¡
 ![image](https://user-images.githubusercontent.com/105435693/169619189-8bdbc7c4-e3b8-477a-9ecb-5847f3e72fd2.png)
 
-_Soy Rodrigo Botello, estudiante de __Sistemas de Telecomunicaciones e Iformaticos-STI__ es un Grado Superior de Telecomunicaciones en el IES CAVANILLES (ALICANTE).
+_Soy Rodrigo Botello, estudiante de __Sistemas de Telecomunicaciones e Informaticos-STI__ es un Grado Superior de Telecomunicaciones en el IES CAVANILLES (ALICANTE).
 La creacion de este espacio es una tarea para la asignatura _Sistemas Informáticos y Redes Locales-SIRL_. Dentro de mi perfil encontraras una estuctura de carpetas con archivos .md y .html, en los cuales narro "mis batallitas" a lo largo de un año lectivo, todo recogido en un repositorio llamado _LogBook_. 
 La estructura del repositorio se compone de 3 carpetas, una por cada trimestre cursado._
 <!--
